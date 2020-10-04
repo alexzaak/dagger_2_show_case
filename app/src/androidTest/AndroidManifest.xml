@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="codes.zaak.dagger2showcase">
+    <!-- Workaround for MockK https://github.com/mockk/mockk/issues/297#issuecomment-641361770 -->
+    <application android:extractNativeLibs="true" />
+</manifest>

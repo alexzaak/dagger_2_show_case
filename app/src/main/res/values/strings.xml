@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dagger 2 Show Case</string>
+    <string name="show_feature_1">Show Feature 1</string>
+    <string name="mainfragment">MainFragment</string>
+    <string name="feature_1_fragment">Feature 1</string>
+    <string name="your_hero_name">YOU HERO NAME IS:</string>
+    <string name="next_name">Next Name</string>
+    <string name="show_random_name">Show you inner hero</string>
+    <string name="notification_subtitle">Greate test sub title</string>
+    <string name="show_notification">Notify Me</string>
+    <string name="hot_or_not">HOT?</string>
+    <string name="super_power">YOUR SUPER POWER IS:</string>
+</resources>
